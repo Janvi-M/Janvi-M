@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @Janvi-M
+### 👋 Hi, I’m Janvi M
 
-- 🎓 Third-year Computer Engineering student | Specializing in Machine Intelligence & Data Science  
-- 👀 Interested in:  
-  - AI/ML  
-  - Scalable software systems  
-  - Generative AI & Deep Learning  
-  - Big Data & Data Analysis  
-- 💻 Looking to collaborate on open-source ML projects and research-based applications  
+🎓 Final year Computer Engineering student specializing in **Machine Intelligence & Data Science**  
+
+💡 Passionate about:
+- **AI/ML** and **Deep Learning**
+- **Generative AI**
+- **Scalable software systems**
+- **Big Data & Data Analysis**
+
+💻 Looking to collaborate on **open-source ML projects**
